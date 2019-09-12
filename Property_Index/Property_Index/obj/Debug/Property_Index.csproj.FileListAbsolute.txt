@@ -1,0 +1,6 @@
+C:\Users\wjq\Pictures\C#基础学习\Property_Index\Property_Index\bin\Debug\Property_Index.exe.config
+C:\Users\wjq\Pictures\C#基础学习\Property_Index\Property_Index\bin\Debug\Property_Index.exe
+C:\Users\wjq\Pictures\C#基础学习\Property_Index\Property_Index\bin\Debug\Property_Index.pdb
+C:\Users\wjq\Pictures\C#基础学习\Property_Index\Property_Index\obj\Debug\Property_Index.csprojResolveAssemblyReference.cache
+C:\Users\wjq\Pictures\C#基础学习\Property_Index\Property_Index\obj\Debug\Property_Index.exe
+C:\Users\wjq\Pictures\C#基础学习\Property_Index\Property_Index\obj\Debug\Property_Index.pdb

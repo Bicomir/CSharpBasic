@@ -1,0 +1,6 @@
+C:\Users\wjq\Pictures\C#基础学习\4_Delegate\4_Delegate\bin\Debug\4_Delegate.exe.config
+C:\Users\wjq\Pictures\C#基础学习\4_Delegate\4_Delegate\bin\Debug\4_Delegate.exe
+C:\Users\wjq\Pictures\C#基础学习\4_Delegate\4_Delegate\bin\Debug\4_Delegate.pdb
+C:\Users\wjq\Pictures\C#基础学习\4_Delegate\4_Delegate\obj\Debug\4_Delegate.csprojResolveAssemblyReference.cache
+C:\Users\wjq\Pictures\C#基础学习\4_Delegate\4_Delegate\obj\Debug\4_Delegate.exe
+C:\Users\wjq\Pictures\C#基础学习\4_Delegate\4_Delegate\obj\Debug\4_Delegate.pdb
