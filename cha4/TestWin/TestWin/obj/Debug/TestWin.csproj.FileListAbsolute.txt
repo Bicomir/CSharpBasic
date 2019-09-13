@@ -1,0 +1,9 @@
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\bin\Debug\TestWin.exe.config
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\bin\Debug\TestWin.exe
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\bin\Debug\TestWin.pdb
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\obj\Debug\TestWin.csprojResolveAssemblyReference.cache
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\obj\Debug\TestWin.Form1.resources
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\obj\Debug\TestWin.Properties.Resources.resources
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\obj\Debug\TestWin.csproj.GenerateResource.Cache
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\obj\Debug\TestWin.exe
+C:\Users\wjq\Pictures\C#基础学习\CSharp_Basic\TestWin\TestWin\obj\Debug\TestWin.pdb
